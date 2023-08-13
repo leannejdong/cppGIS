@@ -75,6 +75,5 @@ the nearestNeighbor function iterates
 through the delivery points, selecting the nearest unvisited 
 point to the current location and adding it to the route. 
 Once all points have been visited, the function returns to the starting point to complete the cycle.
-
 https://leanne.godbolt.org/z/vjM639h9x
 */
